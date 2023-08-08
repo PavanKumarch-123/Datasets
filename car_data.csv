@@ -1,0 +1,165 @@
+model,year,price,transmission,mileage,fueltype,tax,mpg,engineSize,brand
+ A1,2017,12500,Manual,15735,Petrol,150,55.4,1.4,audi
+ A6,2016,16500,Automatic,36203,Diesel,20,64.2,2,audi
+ A1,2016,11000,Manual,29946,Petrol,30,55.4,1.4,audi
+ A4,2017,16800,Automatic,25952,Diesel,145,67.3,2,audi
+ A3,2019,17300,Manual,1998,Petrol,145,49.6,1,audi
+ A1,2016,13900,Automatic,32260,Petrol,30,58.9,1.4,audi
+ A6,2016,13250,Automatic,76788,Diesel,30,61.4,2,audi
+ A4,2016,11750,Manual,75185,Diesel,20,70.6,2,audi
+ A3,2015,10200,Manual,46112,Petrol,20,60.1,1.4,audi
+ A1,2016,12000,Manual,22451,Petrol,30,55.4,1.4,audi
+ A3,2017,16100,Manual,28955,Petrol,145,58.9,1.4,audi
+ A6,2016,16500,Automatic,52198,Diesel,125,57.6,2,audi
+ Q3,2016,17000,Manual,44915,Diesel,145,52.3,2,audi
+ A3,2017,16400,Manual,21695,Petrol,30,58.9,1.4,audi
+ A6,2015,15400,Manual,47348,Diesel,30,61.4,2,audi
+ A3,2017,14500,Automatic,26156,Petrol,145,58.9,1.4,audi
+ Q3,2016,15700,Automatic,28396,Diesel,145,53.3,2,audi
+ A3,2014,13900,Automatic,30516,Petrol,30,56.5,1.4,audi
+ Q5,2016,19000,Automatic,37652,Diesel,200,47.1,2,audi
+ Q3,2014,17000,Manual,34110,Petrol,145,47.9,1.4,audi
+ A5,2017,17300,Automatic,37100,Diesel,145,67.3,2,audi
+ Q5,2016,20200,Automatic,23714,Diesel,200,47.1,2,audi
+ A5,2017,22500,Automatic,21649,Diesel,145,58.9,3,audi
+ A6,2015,17500,Automatic,62748,Diesel,150,53.3,3,audi
+ Q5,2016,20000,Automatic,23789,Diesel,200,47.1,2,audi
+ A4,2017,18500,Automatic,17418,Diesel,145,62.8,2,audi
+ A5,2017,19500,Automatic,33300,Diesel,145,61.4,2,audi
+ A1,2018,15800,Manual,10793,Petrol,145,56.5,1.4,audi
+ A4,2018,17200,Automatic,25138,Diesel,145,70.6,2,audi
+ X2,2019,35999,Automatic,6026,Petrol,145,34,2,BMW
+ 5 Series,2019,31444,Automatic,2404,Diesel,145,65.7,2,BMW
+ 5 Series,2019,34999,Automatic,7195,Diesel,145,60.1,2,BMW
+ 3 Series,2019,26995,Semi-Auto,10624,Petrol,150,42.2,2,BMW
+ 5 Series,2019,25995,Semi-Auto,7554,Petrol,150,50.4,2,BMW
+ 3 Series,2019,26995,Semi-Auto,12399,Diesel,150,52.3,2,BMW
+ 3 Series,2019,26995,Semi-Auto,8021,Diesel,150,52.3,2,BMW
+ 3 Series,2019,27888,Semi-Auto,10622,Diesel,NULL,52.3,2,BMW
+ 3 Series,2019,24500,Semi-Auto,10125,Petrol,150,47.9,2,BMW
+ 3 Series,2019,24995,Semi-Auto,7585,Petrol,150,47.9,2,BMW
+ 3 Series,2020,32995,Automatic,4000,Diesel,145,50.4,2,BMW
+ 1 Series,2020,NULL,Automatic,1500,Diesel,145,51.4,2,BMW
+ X3,2020,37999,Automatic,2789,Diesel,NULL,54.3,2,BMW
+ X1,2020,32995,Automatic,1593,Diesel,145,50.4,2,BMW
+ 5 Series,2019,26990,Automatic,7824,Petrol,145,50.4,2,BMW
+ X5,2019,44995,Automatic,6495,Diesel,145,36.7,3,BMW
+ 1 Series,2019,16500,Manual,5500,Diesel,145,72.4,1.5,BMW
+ 3 Series,2019,28888,Automatic,9267,Diesel,145,52.3,2,BMW
+ X7,2019,62995,Automatic,11055,Diesel,145,33.6,3,BMW
+ 2 Series,2019,21950,Manual,5500,Petrol,145,42.2,1.5,BMW
+ 4 Series,2019,29999,Automatic,1500,Petrol,145,45.6,2,BMW
+ 1 Series,2019,20999,Semi-Auto,7351,Diesel,145,68.9,2,BMW
+ 2 Series,2015,14950,Manual,46555,Diesel,125,60.1,2,BMW
+ 3 Series,2019,23450,Semi-Auto,13713,Petrol,150,48.7,2,BMW
+ 3 Series,2020,33995,Automatic,10,Diesel,145,50.4,2,BMW
+ 3 Series,2020,42995,Automatic,7500,Petrol,145,33.6,3,BMW
+ 1 Series,2020,34999,Automatic,197,Diesel,145,48.7,2,BMW
+ Z4,2020,35995,Automatic,2500,Petrol,145,38.7,2,BMW
+ 8 Series,2020,74995,Semi-Auto,4500,Diesel,145,26.7,3,BMW
+ 7 Series,2020,53995,Semi-Auto,3500,Diesel,145,42.2,3,BMW
+ X3,2013,15000,Semi-Auto,54150,Diesel,165,50.4,2,BMW
+ i3,2017,21444,Automatic,22063,Hybrid,0,470.8,0,BMW
+ 1 Series,2018,23750,Semi-Auto,11941,Petrol,145,39.8,3,BMW
+ 1 Series,2018,14999,Manual,12955,Diesel,145,51.4,1.5,BMW
+ 1 Series,2017,15850,Manual,39806,Diesel,145,62.8,2,BMW
+ Fiesta,2017,9750,Manual,6732,Petrol,150,64.2,1.1,Ford
+ Fiesta,2015,10950,Manual,21712,Petrol,150,47.9,1.6,Ford
+ Focus,2020,20500,Automatic,1868,Petrol,150,40.9,1.5,Ford
+ Focus,2017,10500,Manual,33511,Petrol,150,60.1,1,Ford
+ Fiesta,2020,14500,Manual,100,Petrol,150,56.5,1,Ford
+ Fiesta,2020,14950,Manual,100,Petrol,145,56.5,1,Ford
+ Kuga,2017,13900,Manual,31926,Diesel,145,60.1,2,Ford
+ Focus,2018,13000,Semi-Auto,9099,Petrol,150,51.4,1,Ford
+ Fiesta,2018,9400,Manual,15156,Petrol,150,64.2,1.1,Ford
+ Focus,2016,8650,Manual,31423,Petrol,20,60.1,1,Ford
+ Focus,2017,13250,Semi-Auto,3038,Petrol,145,51.4,1,Ford
+ Focus,2019,23700,Manual,17452,Diesel,145,50.4,2,Ford
+ Fiesta,2019,14450,Manual,10972,Petrol,150,56.5,1,Ford
+ Fiesta,2016,8500,Manual,30801,Petrol,0,65.7,1,Ford
+ B-MAX,2017,11950,Manual,4822,Petrol,150,57.7,1,Ford
+ Fiesta,2018,10500,Manual,10938,Petrol,150,65.7,1,Ford
+ Fiesta,2017,10000,Manual,11349,Petrol,150,65.7,1,Ford
+ Fiesta,2016,9750,Manual,21001,Petrol,20,62.8,1,Ford
+ Kuga,2019,24450,Semi-Auto,9952,Diesel,145,38.7,2,Ford
+ Fiesta,2019,12950,Manual,15811,Petrol,150,57.7,1,Ford
+ Focus,2017,11950,Manual,14977,Petrol,20,61.4,1,Ford
+ Fiesta,2018,12500,Manual,8816,Petrol,150,56.5,1,Ford
+ Fiesta,2015,7000,Manual,27514,Petrol,30,54.3,1.2,Ford
+ Mondeo,2017,14500,Manual,20116,Petrol,150,48.7,1.5,Ford
+ Fiesta,2018,9000,Manual,18340,Petrol,150,64.2,1.1,Ford
+ Kuga,2017,13000,Manual,18454,Diesel,150,54.3,2,Ford
+ Fiesta,2019,19000,Manual,5261,Petrol,150,40.3,1.5,Ford
+ Kuga,2019,20000,Manual,5511,Petrol,150,35.3,1.5,Ford
+ Polo,2019,14950,Manual,11,Diesel,145,57.7,1.6,vw
+ Polo,2019,14950,Manual,46,Diesel,145,57.7,1.6,vw
+ Polo,2019,14950,Manual,8,Diesel,145,57.7,1.6,vw
+ Polo,2019,14950,Manual,77,Diesel,145,57.7,1.6,vw
+ Polo,2019,14950,Manual,74,Diesel,145,57.7,1.6,vw
+ Polo,2019,13395,Manual,14776,Petrol,145,52.3,1,vw
+ Polo,2017,11999,Semi-Auto,17120,Petrol,145,60.1,1.2,vw
+ Polo,2020,17999,Semi-Auto,1452,Petrol,145,45.6,1,vw
+ Polo,2015,5995,Manual,55644,Petrol,20,60.1,1,vw
+ Polo,2015,11995,Manual,37164,Petrol,150,47,1.8,vw
+ Polo,2017,9698,Manual,27111,Diesel,145,74.3,1.4,vw
+ Polo,2016,9298,Manual,19352,Petrol,20,60.1,1.2,vw
+ Polo,2017,9498,Manual,23058,Petrol,20,60.1,1,vw
+ Polo,2016,10799,Manual,25520,Petrol,0,65.7,1,vw
+ Polo,2016,10999,Semi-Auto,20856,Petrol,20,60.1,1.2,vw
+ Polo,2018,16999,Semi-Auto,22923,Petrol,145,47.9,2,vw
+ Polo,2017,10495,Manual,11508,Petrol,150,60.1,1,vw
+ Polo,2017,13495,Semi-Auto,6317,Petrol,145,60.1,1.2,vw
+ Polo,2017,9995,Manual,15218,Petrol,150,60.1,1,vw
+ Polo,2017,10250,Manual,20991,Petrol,150,60.1,1,vw
+ Polo,2018,11295,Manual,17306,Petrol,145,60.1,1,vw
+ Polo,2019,18299,Semi-Auto,5407,Petrol,145,39.8,2,vw
+ Polo,2016,9799,Manual,32928,Petrol,20,60.1,1.2,vw
+ Polo,2017,10495,Manual,18744,Petrol,145,60.1,1,vw
+ RAV4,2016,22990,Automatic,25632,Hybrid,20,55.4,2.5,toyota
+ RAV4,2002,1600,Manual,140000,Petrol,325,32.1,2,toyota
+ RAV4,2017,22495,Automatic,20431,Hybrid,20,57.6,2.5,toyota
+ RAV4,2017,22995,Automatic,28076,Hybrid,20,55.4,2.5,toyota
+ RAV4,2016,21990,Automatic,33390,Hybrid,20,55.4,2.5,toyota
+ RAV4,2016,17990,Automatic,72865,Hybrid,20,55.4,2.5,toyota
+ RAV4,2019,36990,Automatic,7000,Hybrid,135,49.6,2.5,toyota
+ RAV4,2019,32990,Automatic,5944,Hybrid,135,49.6,2.5,toyota
+ RAV4,2017,19990,Automatic,39392,Hybrid,135,57.6,2.5,toyota
+ RAV4,2016,18990,Automatic,24508,Petrol,200,43.5,2,toyota
+ RAV4,2008,4480,Automatic,116000,Petrol,330,31.4,2,toyota
+ RAV4,2015,14490,Manual,22073,Diesel,160,49.6,2.2,toyota
+ RAV4,2016,19400,Automatic,15632,Hybrid,20,57.6,2.5,toyota
+ RAV4,2017,17500,Automatic,26666,Hybrid,135,57.6,2.5,toyota
+ RAV4,2017,18500,Automatic,31620,Hybrid,135,57.6,2.5,toyota
+ RAV4,2019,30480,Automatic,7116,Hybrid,140,49.6,2.5,toyota
+ RAV4,2017,16900,Automatic,50732,Hybrid,20,57.6,2.5,toyota
+ RAV4,2017,22900,Automatic,14873,Hybrid,20,57.6,2.5,toyota
+ RAV4,2016,20998,Automatic,31253,Hybrid,20,57.6,2.5,toyota
+ Superb,2018,18990,Manual,7256,Diesel,150,65.7,2,skoda
+ Rapid,2017,8990,Manual,23002,Petrol,145,57.7,1.2,skoda
+ Octavia,2017,10795,Manual,34301,Petrol,145,58.9,1,skoda
+ Karoq,2018,18495,Manual,21867,Petrol,145,51.4,1.5,skoda
+ Kodiaq,2019,36995,Automatic,2261,Diesel,145,35.3,2,skoda
+ Citigo,2019,8995,Manual,9,Petrol,145,67.3,1,skoda
+ Fabia,2017,8995,Manual,10765,Petrol,145,64.2,1,skoda
+ Karoq,2019,18495,Manual,15611,Petrol,145,52.3,1.5,skoda
+ Karoq,2019,18995,Manual,11435,Petrol,145,52.3,1.5,skoda
+ Superb,2016,14299,Semi-Auto,25593,Diesel,30,62.8,2,skoda
+ Kodiaq,2017,15799,Manual,13018,Petrol,145,46.3,1.4,skoda
+ Octavia,2019,15999,Semi-Auto,15000,Diesel,145,53.3,1.6,skoda
+ Scala,2019,15485,Manual,451,Diesel,145,57.7,1.6,skoda
+ Superb,2019,23985,Semi-Auto,4552,Diesel,145,54.3,2,skoda
+ Kodiaq,2019,29450,Automatic,3012,Diesel,145,37.2,2,skoda
+ I20,2016,6549,Manual,53609,Petrol,30,55.4,1.2,Hyundai
+ Tucson,2017,16929,Semi-Auto,24163,Diesel,125,57.6,1.7,Hyundai
+ Tucson,2018,20949,Automatic,18076,Diesel,145,47.1,2,Hyundai
+ I30,2018,11679,Manual,11513,Diesel,145,74.3,1.6,Hyundai
+ I20,2019,10871,Manual,8114,Petrol,150,46.3,1.2,Hyundai
+ I40,2016,11151,Semi-Auto,25881,Diesel,125,56.5,1.7,Hyundai
+ IX20,2018,11091,Manual,14952,Diesel,150,64.2,1.6,Hyundai
+ Tucson,2016,13871,Manual,30897,Diesel,30,61.7,1.7,Hyundai
+ Tucson,2020,18798,Manual,1250,Petrol,145,34.9,1.6,Hyundai
+ I10,2013,3499,Manual,79936,Petrol,20,61.4,1.2,Hyundai
+ Tucson,2019,19000,Manual,21,Petrol,145,34.9,1.6,Hyundai
+ I20,2017,7499,Manual,35513,Petrol,145,55.4,1.2,Hyundai
+ I20,2017,7499,Manual,36602,Petrol,145,55.4,1.2,Hyundai
+ IX20,2017,9995,Automatic,11211,Petrol,150,43.5,1.6,Hyundai
